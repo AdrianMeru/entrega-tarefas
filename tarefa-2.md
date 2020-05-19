@@ -20,4 +20,4 @@ Para finalizar solo tenemos que iniciar el programa:
 ```sql
 sudo mysql
 ```
-![funcionando](/img/cap.PNG)
+![funcionando](/img/0.PNG)
